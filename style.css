@@ -1,3 +1,4 @@
+
 :root{
     --Cor-de-Fundo: #1e1e1e;
     --Verde: 6FFF57;
@@ -5,4 +6,10 @@
     --botao-ativo: 3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo:rgba(58, 55, 94, 0.3);
+}
+
+
+body{
+    background-color: var(--Cor-de-Fundo);
+    color: var(--branco);
 }
