@@ -49,5 +49,4 @@ body{
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 4px solid var(--botao-ativo);
     border-right: 4px solid var(--botao-ativo);
-
-}
+    border-top: none;
